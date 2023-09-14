@@ -1,1 +1,1 @@
-分布式配置中心
+SpringCloudConfig分布式配置中心
